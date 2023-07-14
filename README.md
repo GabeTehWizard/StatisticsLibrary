@@ -27,4 +27,4 @@ To start using this library, follow the steps below:
 
 ## License
 
-This library is licensed under the [MIT License](link-to-your-license-file).
+This library is licensed under the [MIT License](https://github.com/GabeTehWizard/StatisticsLibrary/blob/master/LICENSE.txt).
